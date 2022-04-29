@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"fonctions.h": "c",
+			"stdio.h": "c"
+		}
+	}
+}
