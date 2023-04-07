@@ -1,3 +1,5 @@
+Implémentation du Jeu de la Vie en C
+
 Pour compiler :
 
 -> Se placer dans le dossier SDL et écrire en ligne de commmande :
