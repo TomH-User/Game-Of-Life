@@ -1,7 +1,5 @@
 Implémentation du Jeu de la Vie en C
 
-![](Images/Image.jpg)
-
 Pour compiler :
 
 - Se placer dans le dossier SDL et écrire en ligne de commmande :
